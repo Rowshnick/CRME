@@ -216,3 +216,18 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+# =========================
+# CRME PRIVATE MEMORY LAYER
+# =========================
+
+memory/
+memory_test/
+input_chat.txt
+test_memory_input.txt*
+memory/packs/
+logs/
+*.log
+tmp/
+temp/
+
+
