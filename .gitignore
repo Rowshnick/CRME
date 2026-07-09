@@ -231,3 +231,17 @@ tmp/
 temp/
 
 
+# CRME backups
+*_backup*.py
+*.zip
+
+# runtime data
+exports/
+storage/
+snapshots/
+memory/sessions/
+
+# temporary
+__pycache__/
+*.pyc
+CRME_latest_snapshot.json
