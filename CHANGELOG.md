@@ -50,5 +50,5 @@ Current stable components:
 
 This release establishes the reproducible implementation baseline for:
 
-"CRME: A Cognitive Research Memory Engine for Persistent and Explainable AI-Assisted Research Workflows"
+"CRME: A Cognitive Research Memory Engine for Persistent and Explainable Research Workflows"
 
